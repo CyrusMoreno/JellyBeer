@@ -1,3 +1,3 @@
 # JellyBeer
 
-website contect
+website content
